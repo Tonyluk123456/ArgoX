@@ -10,5 +10,5 @@ ARGO_AUTH=''
 
 # Xray
 SERVER='icook.hk'
-UUID='680f1b65-950f-473c-83df-30fbdeae5113'
+UUID='ffffffff-ffff-ffff-ffff-ffffffffffff'
 WS_PATH='argox'
